@@ -1,0 +1,22 @@
+body {
+ background-color: rgb(231, 231, 241);
+}
+
+h1 {
+  color: rgb(196, 23, 23);
+  text-align: center;
+}
+h3 {
+  color: rgb(155, 25, 25);
+  text-align: center;
+}
+
+p {
+  color: rgb(15, 6, 6);
+  font-family: verdana;
+  font-size: 20px;
+}
+h4 {
+  color: rgb(17, 7, 7);
+  text-align: center;
+}
